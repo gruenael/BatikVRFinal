@@ -1,0 +1,24 @@
+# Blender 3.3.1 MTL File: 'CANTING BATIK.blend'
+# www.blender.org
+
+newmtl Material.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.318182 0.318182 0.318182
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd MAGANG LAB GAT/PROJECT LOMBA MAGE/metal txtr/textures/rust_coarse_01_diff_4k.jpg
+map_Ns MAGANG LAB GAT/PROJECT LOMBA MAGE/metal txtr/textures/rust_coarse_01_rough_4k.exr
+map_Bump -bm 1.400000 MAGANG LAB GAT/PROJECT LOMBA MAGE/metal txtr/textures/rust_coarse_01_nor_gl_4k.exr
+
+newmtl Material.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd MAGANG LAB GAT/PROJECT LOMBA MAGE/plywood txtr/textures/plywood_diff_4k.jpg
+map_Ns MAGANG LAB GAT/PROJECT LOMBA MAGE/plywood txtr/textures/plywood_rough_4k.jpg
+map_Bump -bm 1.000000 MAGANG LAB GAT/PROJECT LOMBA MAGE/plywood txtr/textures/plywood_nor_gl_4k.exr
